@@ -32,7 +32,7 @@
       <Creatives>
         <Creative id="5480" sequence="1" adId="2447226">
           <UniversalAdId idRegistry="Ad-ID" idValue="8465">8465</UniversalAdId>
-          <Linear>
+          <Linear skipoffset="00:00:05">
             <TrackingEvents>
               <Tracking event="start">https://audienceselect.hearst.com</Tracking>
               <Tracking event="firstQuartile">https://audienceselect.hearst.com</Tracking>
